@@ -1,0 +1,10 @@
+{
+  "extends": "@lucid-softworks/tsconfig/base.json",
+  "compilerOptions": {
+    "noEmit": false,
+    "outDir": "dist",
+    "rootDir": "src"
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["test/**/*.ts"]
+}
