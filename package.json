@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/queue-store-memory",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Deterministic in-memory queue storage with atomic claims and leases.",
   "keywords": [
     "javascript",
